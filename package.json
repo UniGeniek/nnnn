@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "A simple bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Toby",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^5.0.1",
+    "async-limiter": "^1.0.0",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "opusscript": "^0.0.6",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {}
+}
